@@ -6,6 +6,10 @@ ComfyUI without being told where it is.
 
 Windows only. Electron front end, PowerShell underneath.
 
+[**Download the latest release**](https://github.com/Violinet-tech/comfyram-manager/releases/latest) · MIT licensed · Windows 10 and 11
+
+![The ComfyRAM Manager panel](docs/comfyram-panel.webp)
+
 ## Quick guide
 
 **Install** — grab the latest `ComfyRAM Manager Setup <version>.exe` from
